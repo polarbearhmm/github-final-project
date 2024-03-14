@@ -23,6 +23,6 @@ We welcome pull requests to improve this project! Before submitting a pull reque
 
 ## Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](link to CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/polarbearhmm/github-final-project/edit/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its terms.
 
-Thank you for contributing to [Your Project Name]!
+Thank you for contributing to [Github final project]!
